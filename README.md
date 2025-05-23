@@ -3,9 +3,11 @@ Sample output:
 
 
 🗣️ Smart Speech-to-Speech Translator
+
 A real-time, multilingual voice translator that listens to spoken language, auto-detects the source language, translates it into a selected target language, and speaks the result aloud. Built with Streamlit, Google Translate, and gTTS, this application provides a simple interface for live speech translation.
 
 🔧 Features
+
 🎤 Speech Recognition: Converts microphone input to text using Google's speech recognition.
 
 🧠 Automatic Language Detection: Detects the language of the spoken text using langdetect.
@@ -19,6 +21,7 @@ A real-time, multilingual voice translator that listens to spoken language, auto
 ✅ Streamlit Interface: Simple, interactive interface with real-time feedback and emoji indicators.
 
 📦 Requirements
+
 streamlit
 pygame
 gtts
