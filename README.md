@@ -23,10 +23,16 @@ A real-time, multilingual voice translator that listens to spoken language, auto
 📦 Requirements
 
 streamlit
+
 pygame
+
 gtts
+
 googletrans==4.0.0-rc1
+
 SpeechRecognition
+
 pyaudio
+
 langdetect
 
